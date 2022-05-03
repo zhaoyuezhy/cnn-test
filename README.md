@@ -4,5 +4,5 @@
 - vis_lenet.py
 - vis_alexnet.py
 
-**作用**
+**作用：**  
 可以可视化每一个阶段的feature map。
